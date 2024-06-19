@@ -1,0 +1,53 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+
+
+}
+ul{
+    display:flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+.nav-link:hover{
+    color: aqua;
+
+    
+}
+#about{
+    color:#00b39b;  
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+#title{
+    color: #00b39b;
+}
+#card{
+    display: flex;
+    gap: 10px;
+    
+
+}
+.card-title{
+   color: white;
+
+}
+.card-text{
+    color: white;
+ 
+ }
+ .card-link{
+    color: white;
+ 
+ }
+
